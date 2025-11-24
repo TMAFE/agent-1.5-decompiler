@@ -1,0 +1,14 @@
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\obj\Debug\OldAgentDecompiler.vbprojAssemblyReference.cache
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\obj\Debug\OldAgentDecompiler.Form1.resources
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\obj\Debug\OldAgentDecompiler.Resources.resources
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\obj\Debug\OldAgentDecompiler.vbproj.GenerateResource.cache
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\obj\Debug\OldAgentDecompiler.vbproj.CoreCompileInputs.cache
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\bin\Debug\OldAgentDecompiler.exe
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\bin\Debug\OldAgentDecompiler.pdb
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\bin\Debug\OldAgentDecompiler.xml
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\bin\Debug\OpenMcdf.dll
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\bin\Debug\OpenMcdf.xml
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\obj\Debug\OldAgentDecompiler.vbproj.CopyComplete
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\obj\Debug\OldAgentDecompiler.exe
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\obj\Debug\OldAgentDecompiler.xml
+C:\Users\Konnor88\source\repos\OldAgentDecompiler\OldAgentDecompiler\obj\Debug\OldAgentDecompiler.pdb

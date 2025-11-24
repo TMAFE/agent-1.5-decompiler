@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.36530.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "OldAgentDecompiler", "OldAgentDecompiler\OldAgentDecompiler.vbproj", "{C8AAAB66-B8E9-4B57-AB5E-B3E108921402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C8AAAB66-B8E9-4B57-AB5E-B3E108921402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8AAAB66-B8E9-4B57-AB5E-B3E108921402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8AAAB66-B8E9-4B57-AB5E-B3E108921402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8AAAB66-B8E9-4B57-AB5E-B3E108921402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {42ACC019-D4A2-421A-A4F0-17754C14FE3E}
+	EndGlobalSection
+EndGlobal
